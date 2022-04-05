@@ -1,0 +1,15 @@
+table {
+	border-collapse: collapse;
+	width: 100%;
+	text-align: center; /* 全テキストを中央寄せ */
+}
+th, td {
+	border: solid 1px #ffffff;
+}
+th {
+	background-color: #333;
+	color: #ffffff;
+}
+td {
+	background-color: darkgray;
+}

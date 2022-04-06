@@ -35,7 +35,7 @@
         <dd>
           <?php
             echo htmlspecialchars($tel, ENT_QUOTES, "UTF-8");
-          ?>
+         ?>
         </dd>
         <dt>メールアドレス</dt>
         <dd>
